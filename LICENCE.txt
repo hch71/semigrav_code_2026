@@ -1,0 +1,4 @@
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following condition is met:
+
+The Software may not be used for the purpose of training or improving machine learning algorithms, including but not limited to artificial intelligence, natural language processing, or data mining.
+
